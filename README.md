@@ -217,9 +217,10 @@ Open a Pull Request
 This project is licensed under the MIT License - see the LICENSE file for details.
 👥 Team
 
-Lead Developer: Your Name
-UI/UX Designer: Designer Name
-Backend Architect: Backend Dev
+Lead Developer: Priya Pandey
+UI/UX Designer: Priya Pandey
+Backend Architect: Priya Pandey
+basically I am all alone ~~🤌🥹❤️
 
 🙏 Acknowledgments
 
@@ -231,7 +232,7 @@ Beta testers who provided invaluable feedback
 
 📧 Email: support@feedbackloop.io
 💬 Discord: Join our community
-📖 Documentation: /Project proposal.pdf
+📖 Documentation: /Projectproposal.pdf
 🐛 Bug Reports: GitHub Issues
 
 Made with ❤️ for designers who deserve better feedback workflows
